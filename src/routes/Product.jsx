@@ -145,7 +145,6 @@ const Product = () => {
                   </div>
                   <div className=" flex gap-3 font-bold">
                     <h2 className="font-light">Material:</h2>
-                    <h1>HOLAAAAAAAAAAAAAA</h1>
                     <div>
                       <h3 className="font-bold">
                         {product ? product.detail.bodyMaterial : "cargando..."}
