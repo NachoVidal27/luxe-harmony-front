@@ -68,7 +68,7 @@ function LoginComponent() {
           </h3>
           <div>
             <a
-              href="https://admin-luxeharmony.vercel.app"
+              href="https://luxe-harmnoy-admin-dashboard.vercel.app"
               target={"_blank"}
               className="text-textPrimary bg-bgFourthColor px-2"
             >
